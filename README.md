@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-    <!-- Replace href with your links -->
+    <!--links -->
     <a href="https://www.linkedin.com/in/felipe-honorato-3086331a2/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
 </div>
 
@@ -26,9 +26,15 @@
 
 <div align="center">
     <h2>Technical Toolkit</h2>
-    <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <!-- Add more badges similarly -->
+    <!-- skills -->
+    <h3>Frontend</h3>
+     <img src="https://skillicons.dev/icons?i=html,js,css">
+    <h3>Backend</h3>
+    <img src="https://skillicons.dev/icons?i=java">
+    <h3>DataBase</h3>
+     <img src="https://skillicons.dev/icons?i=mysql">
+    <h3>Othes Technologys</h3>
+     <img src="https://skillicons.dev/icons?i=arch,vscode,neovim">
 </div>
 
 
