@@ -6,14 +6,12 @@
 
 <div align="center">
     <h1>🚀 About Me</h1>
-    <p>I'm a Computer Science Student, specializing in Backend Development and in the future a Fullstack Development.</p>
+    <p>I'm a Computer Science Student, specializing in Backend Development and in the future a Fullstack Developer.</p>
 </div>
 
 <div align="center">
     <!--links -->
-    <a href="https://www.linkedin.com/in/felipe-honorato-3086331a2/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-    </a>
+    <a href="https://www.linkedin.com/in/felipe-honorato-3086331a2/"></a>
 </div>
 
 <div align="center">
