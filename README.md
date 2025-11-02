@@ -30,7 +30,7 @@
     <h3>Backend</h3>
     <img src="https://skillicons.dev/icons?i=java,php">
     <h3>DataBase</h3>
-     <img src="https://skillicons.dev/icons?i=mysql,mariaDB">
+     <img src="https://skillicons.dev/icons?i=mysql">
     <h3>Othes Technologys</h3>
      <img src="https://skillicons.dev/icons?i=arch,vscode,neovim">
 </div>
