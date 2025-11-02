@@ -28,9 +28,9 @@
     <h3>Frontend</h3>
      <img src="https://skillicons.dev/icons?i=html,js,css">
     <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=java">
+    <img src="https://skillicons.dev/icons?i=java,PHP">
     <h3>DataBase</h3>
-     <img src="https://skillicons.dev/icons?i=mysql">
+     <img src="https://skillicons.dev/icons?i=mysql,mariadb">
     <h3>Othes Technologys</h3>
      <img src="https://skillicons.dev/icons?i=arch,vscode,neovim">
 </div>
